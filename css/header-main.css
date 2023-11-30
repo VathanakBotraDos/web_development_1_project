@@ -1,0 +1,12 @@
+.header-area {
+    
+    background: url('../images/bg.png');
+    background-position: center;
+    background-size: cover;
+    opacity: 90%;
+    height: 60vh;
+	background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
